@@ -1,2 +1,12 @@
-we have  20 cours and 30 Student in each in each cours
-we will have 600 marks
+we have 600 results for 30 students
+make 6 different files
+name the files A,B,C,D,E,F
+write 91-100 for file A
+write 81-90 for file B
+write 71-80 for file C
+write 61-70 for file D
+write 51-60 for file E
+write 0-50 for file F
+check all the results and put it to the right files according to the marks
+count quantety of each files and write it done.
+print  out the outcomes
